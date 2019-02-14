@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsExercise2", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsExercise3", "LinqToObjectsExercise3\LinqToObjectsExercise3.csproj", "{CCB6631B-7CC3-4027-B1EF-362A7F63B17D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsExercise4", "LinqToObjectsExercise4\LinqToObjectsExercise4.csproj", "{C2D9AAC3-D582-4375-B84E-BB46CB162296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsExercise5", "LinqToObjectsExercise5\LinqToObjectsExercise5.csproj", "{C1860559-B64D-4502-A682-0116A998673A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToObjectsExercise6", "LinqToObjectsExercise6\LinqToObjectsExercise6.csproj", "{3DEA8464-9E6B-43AE-9CD8-2199D0DB7029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{CCB6631B-7CC3-4027-B1EF-362A7F63B17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB6631B-7CC3-4027-B1EF-362A7F63B17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB6631B-7CC3-4027-B1EF-362A7F63B17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D9AAC3-D582-4375-B84E-BB46CB162296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D9AAC3-D582-4375-B84E-BB46CB162296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D9AAC3-D582-4375-B84E-BB46CB162296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D9AAC3-D582-4375-B84E-BB46CB162296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1860559-B64D-4502-A682-0116A998673A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1860559-B64D-4502-A682-0116A998673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1860559-B64D-4502-A682-0116A998673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1860559-B64D-4502-A682-0116A998673A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEA8464-9E6B-43AE-9CD8-2199D0DB7029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEA8464-9E6B-43AE-9CD8-2199D0DB7029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEA8464-9E6B-43AE-9CD8-2199D0DB7029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEA8464-9E6B-43AE-9CD8-2199D0DB7029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
