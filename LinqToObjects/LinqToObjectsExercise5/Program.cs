@@ -10,7 +10,9 @@ namespace LinqToObjectsExercise5
     {
         static void Main(string[] args)
         {
-            var input = Console.ReadLine();
+            Console.WriteLine("Type a word:");
+
+            string input = Console.ReadLine();
             
             var results = (from text in input
                           group text by text into texts
@@ -19,7 +21,7 @@ namespace LinqToObjectsExercise5
                               Text = $"{texts.Key} - {texts.Count()} time(s)"
                           }).ToList();
 
-            foreach(var result in results)
+            foreach (var result in results)
             {
                 Console.WriteLine(result);
             }

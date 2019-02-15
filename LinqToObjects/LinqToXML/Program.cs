@@ -48,7 +48,7 @@ namespace LinqToXML
 </breakfast_menu>";
             #endregion
 
-            var xmlDocument = XDocument.Load(xml);
+            var xmlDocument = XDocument.Parse(xml);
 
             var result = (from a in xmlDocument.Descendants("food")
                           where Convert.ToDecimal(a.Element("price")
